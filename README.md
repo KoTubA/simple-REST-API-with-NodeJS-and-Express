@@ -42,8 +42,6 @@ git clone git@github.com:KoTubA/simple-REST-API-with-NodeJS-and-Express.git
 
 **2. Install dependencies:**
 
-Now we can get the project dependencies installed:
-
 ```
 npm install
 ```
